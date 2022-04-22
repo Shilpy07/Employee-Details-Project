@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Shilpy Varshney",
+    "empid": "2384",
+    "doj": "22/03/22",
+    "totalexp": "3",
+    "worklocation": "Noida",
+    "technologies": "HTML, CSS",
+    "designation": "Software Developer",
+    "imageurl": "img/pic3.jpg"
+  },
+
+  {
+    "name": "Shivani Raj",
+    "empid": "2394",
+    "doj": "28/03/22",
+    "totalexp": "3",
+    "worklocation": "Noida",
+    "technologies": "HTML, CSS, AWS",
+    "designation": "Backend Developer",
+    "imageurl": "img/pic2.jpg"
+  },
+
+  {
+    "name": "Alka Varshney",
+    "empid": "2344",
+    "doj": "22/03/22",
+    "totalexp": "3",
+    "worklocation": "Chennai",
+    "technologies": "HTML, CSS",
+    "designation": "Frontend Developer",
+    "imageurl": "img/pic3.jpg"
+  },
+
+  {
+    "name": "Tanvi Varshney",
+    "empid": "2744",
+    "doj": "22/03/22",
+    "totalexp": "3",
+    "worklocation": "Noida",
+    "technologies": "Bootstrap",
+    "designation": "Java Developer",
+    "imageurl": "img/pic2.jpg"
+  },
+
+  {
+    "name": "Kavya Varshney",
+    "empid": "2394",
+    "doj": "22/03/22",
+    "totalexp": "3",
+    "worklocation": "Noida",
+    "technologies": "HTML, CSS",
+    "designation": "Software Developer",
+    "imageurl": "img/pic3.jpg"
+  },
+
+  {
+    "name": "Shilpy Varshney",
+    "empid": "2744",
+    "doj": "22/03/22",
+    "totalexp": "3",
+    "worklocation": "Noida",
+    "technologies": "HTML, CSS",
+    "designation": "Software Developer",
+    "imageurl": "img/pic2.jpg"
+  },
+
+  {
+    "name": "Shilpy Varshney",
+    "empid": "2344",
+    "doj": "22/03/22",
+    "totalexp": "3",
+    "worklocation": "Noida",
+    "technologies": "HTML, CSS",
+    "designation": "Software Developer",
+    "imageurl": "img/pic3.jpg"
+  }
+]
